@@ -20,7 +20,7 @@ title: Personal Video Feed
 description: >- # this means to ignore newlines until "baseurl:"
   Links to videos
 url: "https://visages-poles.github.io" # the subpath of your site, e.g. /blog
-baseurl: "/visages-poles/personal-video-feed" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/personal-video-feed" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  visages-poles
 github_email: "visages-poles.00@icloud.com"
 
